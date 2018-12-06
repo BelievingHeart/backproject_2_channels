@@ -1,0 +1,3 @@
+/home/afterburner/CLionProjects/hello/build/CMakeFiles/rebuild_cache.dir
+/home/afterburner/CLionProjects/hello/build/CMakeFiles/hello.dir
+/home/afterburner/CLionProjects/hello/build/CMakeFiles/edit_cache.dir
